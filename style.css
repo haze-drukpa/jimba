@@ -1,0 +1,405 @@
+h1{
+    color: blue;
+    font-family: Arial;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 20 red;
+    text-decoration: underline blue;
+    background-color: yellow;
+    height: 76px;
+    border-radius: 20px;
+    border-style: dotted;
+    padding-top: 20px;
+    text-shadow: 2px 2px orange;
+    
+   
+   
+   
+}
+#video{
+    padding-bottom:20px ;
+    color: purple;
+    text-decoration: underline white;
+}
+
+
+
+#heart{
+border: bisque;
+border-radius: 25px;
+height: 70px;
+width: 70px;
+position: absolute;
+left: 850px;
+top:25px;
+
+}
+
+h2{
+text-align: center;
+color: blue;
+text-shadow: red 100px;
+}
+
+#sibling{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 20px;
+    border-color: purple;
+
+}
+
+#siblings{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 180px;
+    border-color: purple;
+
+}
+
+#dad{
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 342px;
+    border-color: purple;
+
+
+}
+
+
+#azamy{
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 500px;
+    border-color: purple;
+
+}
+#grandmother{
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 658px;
+    border-color: purple;
+
+}
+#kotas{
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 816px;
+    border-color: purple;
+}
+#ani{
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 974px;
+    border-color: purple;
+}
+#kota{
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 60px;
+    bottom: 30px;
+    border-color: purple;
+}
+#cutie{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 220px;
+    bottom: 30px;
+    border-color: purple;
+
+}
+
+#twin{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 380px;
+    bottom: 30px;
+    border-color: purple;
+
+}
+
+#birthday{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 540px;
+    bottom: 30px;
+    border-color: purple;
+
+}
+#aku{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 700px;
+    bottom: 30px;
+    border-color: purple;
+
+}
+
+#azamn{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 860px;
+    bottom: 30px;
+    border-color: purple;
+
+}
+
+#abi{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 1020px;
+    bottom: 30px;
+    
+
+}
+
+
+
+#ok{
+
+    border: bisque;
+    border-radius: 25px;
+    height: 100px;
+    width: 100px;
+    position: relative;
+   left: 550px;
+   margin-bottom: 30%;
+   padding-top: 200px;
+
+    
+
+}
+.family{
+    background-color: aqua;
+    
+}
+#family3{
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+    height: 50px;
+    background-color: antiquewhite;
+}
+#relationship{
+    height: 20px;
+}
+
+.container{
+    /* border: 5px solid purple; */
+    text-align: center;
+    border-collapse: collapse;
+    background-image: url("https://th.bing.com/th/id/R.89014aa28bdb750a86a3128f2e19f7db?rik=vqTCRuKyOXeF%2bg&riu=http%3a%2f%2fwww.hdwallpaperspulse.com%2fwp-content%2fuploads%2f2017%2f01%2f26%2fawesome-view-natural-image.jpg&ehk=xtfFYTFf8%2f1DQzBvg%2fB%2fCt7xNSuSrqNTdvmqECx%2bIXw%3d&risl=&pid=ImgRaw&r=");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: yellow bold;
+}
+p{
+    text-align: center;
+}
+tr, th, td{
+    border: 3px solid purple;
+    /* position: relative;
+    left: 250px;
+     */
+   
+}
+.table{
+    border-collapse: collapse;
+    position: relative;
+    left: 5px;
+    background-color: aliceblue;
+}
+
+ 
+#jt{
+    color: rgb(0, 255, 106);
+    font-family: Arial;
+    text-transform: capitalize;
+    text-align: center;
+    text-shadow: 20 pink;
+    text-decoration: underline black;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/937/836/non_2x/valentine-s-day-concept-with-hearts-on-with-copy-space-can-put-your-text-on-use-for-greeting-card-or-banner-template-as-design-background-free-vector.jpg");
+    height: 50px;
+    border-radius: 20px;
+    border-style: none;
+    padding-top: 20px;
+    text-shadow: 2px 2px orange;
+    
+    
+}
+#f{
+    height: 200px;
+    width: 250px;
+    text-align: center;
+ 
+   
+}
+.o{
+    background-color: aqua;
+}
+.jumbotron{
+    background-color: antiquewhite;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.sm{
+    height: 100px;
+    background-color: slateblue;
+text-align: center;
+color: aliceblue;
+border-radius: 40px;
+margin-bottom: 25px;
+padding-bottom: 25px;
+
+}
+.m{
+    height: 150px;
+    background-color: mediumturquoise;
+    border-radius: 40px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.l{
+    height: 200px;
+    background-color: deeppink;
+    border-radius: 40px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#id{
+    height: 150px;
+    width: 150px;
+    padding-left: 900px;
+    border-radius: 25px;
+  
+}
+h3{
+    text-align: center;
+    color: blue;
+    text-decoration:underline red ;
+}
+
+
+.box{
+    box-shadow: chartreuse 50px;
+}
+
+p{
+
+    color: red;
+    text-align: center;
+    font-size: medium;
+    font-weight: 300;
+    font-family: cursive;
+}
+.glyphicon{
+    text-align: center;
+}
+#search{
+    height: 100px;
+    width: 100px;
+    padding-left: 450px;
+  
+}
+
+.Heaven{
+    background-color: bisque;
+    text-align: center;
+    border-radius: 25px;
+}
+#mo{
+    border-radius: 25px;
+}
+#bb{
+    border-radius: 25px; 
+    
+}
+#gg{
+    border-radius: 25px;
+    
+}
+.panel{
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/b8/44/e7/b844e75bfe27d765cf6fe2f1e50859b3.gif");
+}
+.botton{
+    text-align: center;
+}
+.dropdown{
+    text-align: center;
+    background-image: url("https://img.freepik.com/free-photo/maple-leaf-border-background-orange-watercolor-autumn-season_53876-128735.jpg?w=2000");
+}
+.FORM{
+    background-color: aqua;
+}
+
+.item{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.courser{
+    text-align: center;
+}
+#icon{
+    width: 150px;
+    height: 150px;
+}
+.ic{
+    width: 100px;
+    height: 100px;
+}
